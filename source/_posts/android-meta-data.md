@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Android获取Manifest中<meta-data>元素的值"
+title:      "Android获取Manifest中meta-data元素的值"
 date:       2017-09-08 17:24:00
 author:     "Crazy江"
 categories:
