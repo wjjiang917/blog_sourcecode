@@ -9,7 +9,7 @@ language: zh-Hans
 
 # URL
 ## If your site is put in a subdirectory, set url as 'yourwebsite/child' and root as '/child/'
-url: https://www.crazyjiang.cn
+url: http://www.crazyjiang.cn
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
